@@ -6,7 +6,7 @@ let gLoc =`Toronto,Canada`
 let aSal =`400k`
 
 
-console.log(` You will be a ${jobTitle} in ${gLoc} making ${aSal} per year`)
+console.log(`You will be a ${jobTitle} in ${gLoc} making ${aSal} per year`)
 
 
 //Excercise 2
